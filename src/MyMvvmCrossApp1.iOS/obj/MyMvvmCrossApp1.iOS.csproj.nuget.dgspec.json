@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.iOS\\MyMvvmCrossApp1.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj",
+        "projectName": "MyMvvmCrossApp1.Core",
+        "projectPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj",
+        "packagesPath": "C:\\Users\\StefanosPapamichail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\StefanosPapamichail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\StefanosPapamichail\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.iOS\\MyMvvmCrossApp1.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.iOS\\MyMvvmCrossApp1.iOS.csproj",
+        "projectName": "MyMvvmCrossApp1.iOS",
+        "projectPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.iOS\\MyMvvmCrossApp1.iOS.csproj",
+        "packagesPath": "C:\\Users\\StefanosPapamichail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\StefanosPapamichail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\StefanosPapamichail\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj": {
+                "projectPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj"
+              },
+              "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.UI\\MyMvvmCrossApp1.UI.csproj": {
+                "projectPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.UI\\MyMvvmCrossApp1.UI.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "MvvmCross.Forms": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1269, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.UI\\MyMvvmCrossApp1.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.UI\\MyMvvmCrossApp1.UI.csproj",
+        "projectName": "MyMvvmCrossApp1.UI",
+        "projectPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.UI\\MyMvvmCrossApp1.UI.csproj",
+        "packagesPath": "C:\\Users\\StefanosPapamichail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\StefanosPapamichail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\StefanosPapamichail\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj": {
+                "projectPath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "MvvmCross.Forms": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1269, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

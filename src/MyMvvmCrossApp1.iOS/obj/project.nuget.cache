@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmXWFAfNjSvL2md9qASa8Vjkg8AC2UOjbU32KWbgVMicNVfGujRoh24qdX1v23noMpWN2XfUaEQX7m4v48+EFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\StefanosPapamichail\\source\\repos\\sol\\src\\MyMvvmCrossApp1.iOS\\MyMvvmCrossApp1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StefanosPapamichail\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\StefanosPapamichail\\.nuget\\packages\\mvvmcross.forms\\7.1.2\\mvvmcross.forms.7.1.2.nupkg.sha512",
+    "C:\\Users\\StefanosPapamichail\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

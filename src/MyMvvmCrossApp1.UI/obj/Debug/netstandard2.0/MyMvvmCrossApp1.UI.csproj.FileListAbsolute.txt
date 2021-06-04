@@ -1,0 +1,16 @@
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\bin\Debug\netstandard2.0\MyMvvmCrossApp1.UI.deps.json
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\bin\Debug\netstandard2.0\MyMvvmCrossApp1.UI.dll
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\bin\Debug\netstandard2.0\MyMvvmCrossApp1.UI.pdb
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.dll
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.pdb
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.csproj.AssemblyReference.cache
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\Resources\Colors.xaml.g.cs
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.AssemblyInfoInputs.cache
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.AssemblyInfo.cs
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.csproj.CoreCompileInputs.cache
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.csproj.CopyComplete
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.dll
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.pdb

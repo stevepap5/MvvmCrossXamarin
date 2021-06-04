@@ -1,0 +1,9 @@
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.deps.json
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.dll
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.pdb
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.csproj.AssemblyReference.cache
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.AssemblyInfoInputs.cache
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.AssemblyInfo.cs
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.dll
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.pdb
