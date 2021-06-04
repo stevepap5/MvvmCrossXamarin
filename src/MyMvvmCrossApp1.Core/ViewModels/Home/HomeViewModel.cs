@@ -13,8 +13,7 @@ namespace MyMvvmCrossApp1.Core.ViewModels.Home
 
         public HomeViewModel() {
 
-            EmployeesList = new ObservableCollection<Employee>(Repository.
-                Repository.EmployeesList);
+            EmployeesList = new ObservableCollection<Employee>(App.DataService.GetEmployees());
         }
     }
 }
