@@ -15,7 +15,7 @@ namespace MyMvvmCrossApp1.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<HomeViewModel>();
+            RegisterAppStart<ViewModels.Home.HomeViewModel>();
         }
     }
 }

@@ -7,26 +7,32 @@
     xmlns:local="clr-namespace:MyMvvmCrossApp1.UI.Pages"
     x:Class="MyMvvmCrossApp1.UI.Pages.HomePage"
     xmlns:behaviours="clr-namespace:Behaviors;assembly=MyMvvmCrossApp1.Core"
-    xmlns:viewModels="clr-namespace:MyMvvmCrossApp1.Core.ViewModels.Home;assembly=MyMvvmCrossApp1.Core"
+    xmlns:viewModels="clr-namespace:MyMvvmCrossApp1.Core.ViewModels.Home;assembly=MyMvvmCrossApp1.Core" 
+                      
                       Title="Main page">
+    
     <ContentPage.Content>
-        <ListView ItemsSource="{Binding EmployeesList}">
-            <ListView.Behaviors>
-                <behaviours:EventToCommandBehavior EventName="ItemTapped"
-                                                   Command="{Binding GetEmployeeCommand}"
+        <StackLayout>
+        
+            <ListView ItemsSource="{Binding EmployeesList}">
+                <ListView.Behaviors>
+                    <behaviours:EventToCommandBehavior EventName="ItemTapped"
+                                                   Command="{Binding NavigateCommand}"
                                                    EventArgsConverter="{StaticResource LocalItemTappedConverter}"
                                                    ></behaviours:EventToCommandBehavior>
-            </ListView.Behaviors>
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <StackLayout>
-                            <Label Text="{Binding Name}"/>
-                            <Label Text="{Binding Surname}"/>
-                        </StackLayout>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+                </ListView.Behaviors>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding Name}"/>
+                                <Label Text="{Binding Surname}"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+       
     </ContentPage.Content>
 </views:MvxContentPage>
