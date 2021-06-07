@@ -14,3 +14,4 @@ C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\n
 C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.csproj.CopyComplete
 C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.dll
 C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\MyMvvmCrossApp1.UI.pdb
+C:\Users\StefanosPapamichail\source\repos\sol\src\MyMvvmCrossApp1.UI\obj\Debug\netstandard2.0\Pages\NextPage.xaml.g.cs
