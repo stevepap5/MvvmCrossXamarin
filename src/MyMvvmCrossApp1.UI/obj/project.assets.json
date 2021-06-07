@@ -69,7 +69,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "MvvmCross": "7.1.2"
+          "MvvmCross": "7.1.2",
+          "Xamarin.Forms": "4.8.0.1269"
         },
         "compile": {
           "bin/placeholder/MyMvvmCrossApp1.Core.dll": {}

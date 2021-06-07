@@ -63,7 +63,8 @@
       },
       "MyMvvmCrossApp1.Core/1.0.0": {
         "dependencies": {
-          "MvvmCross": "7.1.2"
+          "MvvmCross": "7.1.2",
+          "Xamarin.Forms": "4.8.0.1269"
         },
         "runtime": {
           "MyMvvmCrossApp1.Core.dll": {}

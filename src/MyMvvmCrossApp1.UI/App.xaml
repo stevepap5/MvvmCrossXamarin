@@ -3,10 +3,11 @@
     x:Class="MyMvvmCrossApp1.UI.App"
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:d="clr-namespace:MvvmCross.Forms;assembly=MvvmCross.Forms"
+    xmlns:converter="clr-namespace:Converter;assembly=MyMvvmCrossApp1.Core"
     xmlns:resources="clr-namespace:MyMvvmCrossApp1.UI.Resources">
     <Application.Resources>
 
+        <converter:ItemTappedConverter x:Key="LocalItemTappedConverter"/>
         <!--  Application resource dictionary  -->
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
