@@ -5,6 +5,12 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="MyMvvmCrossApp1.UI.Pages.NextPage"
-    xmlns:viewModels="clr-namespace:MyMvvmCrossApp1.Core.ViewModels.Home;assembly=MyMvvmCrossApp1.Core">
+    xmlns:viewModels="clr-namespace:MyMvvmCrossApp1.Core.ViewModels.Home;assembly=MyMvvmCrossApp1.Core"
+    x:DataType="viewModels:NextViewModel">
+
+    <StackLayout>
+        <Label Text="{Binding Name}"/>
+        <Label Text="{Binding Surname}"/>
+    </StackLayout>
 
 </views:MvxContentPage>

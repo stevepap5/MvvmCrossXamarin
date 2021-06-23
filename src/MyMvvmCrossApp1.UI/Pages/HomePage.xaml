@@ -24,10 +24,12 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <StackLayout>
-                                <Label Text="{Binding Name}"/>
-                                <Label Text="{Binding Surname}"/>
-                            </StackLayout>
+                            <ViewCell.ContextActions>
+                               <MenuItem Text="{Binding Name}"/>
+                            </ViewCell.ContextActions>
+                                
+                               
+                            
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

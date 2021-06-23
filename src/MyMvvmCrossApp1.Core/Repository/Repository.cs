@@ -14,7 +14,8 @@ namespace MyMvvmCrossApp1.Core.Repository
             if (EmployeesList==null){
 
                 EmployeesList = new ObservableCollection<Employee>()
-                { new Employee {Name="Stefanos",Surname="Papamichail" } };
+                { new Employee {Name="Stefanos",Surname="Papamichail" } ,
+                    new Employee {Name="Aggelos",Surname="Papamichail" }};
             }
         }
     }
